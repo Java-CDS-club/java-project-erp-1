@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "C:\\ProgramData\\Oracle\\Java\\junit-platform-console-standalone-1.8.0-M1.jar"
+  ]
+}
